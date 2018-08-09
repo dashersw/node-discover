@@ -148,7 +148,7 @@ Discover(opts, callback)
 		* Default: null (use DISCOVERY_HOSTNAME env var or the OS hostname)
 * callback - function that is called when everything is up and running
 	* signature : callback(err, success)
-		
+
 Attributes
 -----------
 
